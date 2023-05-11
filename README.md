@@ -8,7 +8,7 @@ v 0.1
 
 # Attendu
 
-- Rapport de TP en répondan taux questions posées
+- Rapport de TP en répondant aux questions posées
 - Dépôt GitHub contenant les sources de votre programme
 
 # Travail à faire
